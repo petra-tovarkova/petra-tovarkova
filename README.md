@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center"> ✨ Hi there, I'm Petra! ✨ </h1>
 
-<!--
-**petra-tovarkova/petra-tovarkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 Student | 🔭 Space Enthusiast | 💻 Aspiring Researcher | 🥋 Karateka
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 **About Me**  
+Hello! I'm Petra, a passionate student with a deep love for **science, research, space exploration, IT, and education**. I believe in expanding the boundaries of knowledge and continuously learning new things. 🚀  
+
+💻 I enjoy programming, especially in **Python, web development (HTML, CSS, JavaScript), and a bit of Java.**  
+🥋 I'm also a **karate practitioner (4th kyu)**, which has taught me **discipline, mental resilience, and focus.**  
+
+---
+
+## 🌟 Technologies & Skills:
+🎨 **Frontend:** HTML, CSS, JavaScript  
+⚙️ **Backend:** Python, Flask  
+📡 **Space & Research:** Schoolsat, Astro Pi  
+💻 **Other:** Basic Java, AI, Cybersecurity  
+
+---
+
+## 🚀 Projects & Research:
+| 💡 Project | 🌍 Description | 🔗 Link |
+|------------|--------------|---------|
+| **Astro Pi Hackathon Winner** | Winning team project with **Magion**, analyzing space data on the **ISS** | 🔜 Coming soon! |
+| **SchoolSat Research** | Studying satellite technologies and data processing | 🔜 Coming soon! |
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PetraTovarkova&show_icons=true&theme=pink" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetraTovarkova&theme=pink" width="50%" />
+</p>
+
+---
+
+## 🎧 What I'm Listening To:
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID)](https://open.spotify.com/user/foywuurvtq0hp0bkh67li5tqo)
+
+---
+
+## 💌 Connect with Me:
+🌎 **LinkedIn:** [Petra Továrková](https://www.linkedin.com/in/petra-tovarkova/)  
+
+---
+
+✨ **Thanks for visiting my profile! If you like my projects, feel free to star ⭐ them!** ✨
