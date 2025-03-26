@@ -32,14 +32,15 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 
 ## 🎀📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetraTovarkova&show_icons=true&theme=pink" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetraTovarkova&theme=pink" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PetraTovarkova&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetraTovarkova&theme=radical" width="50%" />
 </p>
+
 
 ---
 
 ## 🎧 What I'm Listening To:
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=foywuurvtq0hp0bkh67li5tqo?si=e5db5c46355245d6)]
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=foywuurvtq0hp0bkh67li5tqo)](https://open.spotify.com/user/foywuurvtq0hp0bkh67li5tqo)
 
 ---
 
