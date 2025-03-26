@@ -6,31 +6,31 @@
 
 ---
 
-🌸 **About Me**  
+🙋‍♀️ **About Me**  
 Hello! I'm Petra, a passionate student with a deep love for **science, research, space exploration, IT, and education**. I believe in expanding the boundaries of knowledge and continuously learning new things. 🚀  
 
 💻 I enjoy programming, especially in **Python, web development (HTML, CSS, JavaScript), and a bit of Java.**  
-🥋 I'm also a **karate practitioner (4th kyu)**, which has taught me **discipline, mental resilience, and focus.**  
+🥋 I'm also a **karate student**, which has taught me **discipline, mental resilience, and focus.**  
 
 ---
 
 ## 🌟 Technologies & Skills:
 🎨 **Frontend:** HTML, CSS, JavaScript  
 ⚙️ **Backend:** Python, Flask  
-📡 **Space & Research:** Schoolsat, Astro Pi  
+📡 **Space & Research:** Schoolsat, Raspberry Pi
 💻 **Other:** Basic Java, AI, Cybersecurity  
 
 ---
 
 ## 🚀 Projects & Research:
-| 💡 Project | 🌍 Description | 🔗 Link |
-|------------|--------------|---------|
-| **Astro Pi Hackathon Winner** | Winning team project with **Magion**, analyzing space data on the **ISS** | 🔜 Coming soon! |
-| **SchoolSat Research** | Studying satellite technologies and data processing | 🔜 Coming soon! |
+| 💡 Project | 🌍 Description 
+|------------|--------------|
+| **Astro Pi Hackathon Winner** | Winning team project with **Magion**, analyzing space data on the **ISS** 
+| **SchoolSat Research** | Studying satellite technologies and data processing 
 
 ---
 
-## 📊 GitHub Stats:
+## 🎀📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PetraTovarkova&show_icons=true&theme=pink" width="50%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetraTovarkova&theme=pink" width="50%" />
