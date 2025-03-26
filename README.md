@@ -39,7 +39,7 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 ---
 
 ## 🎧 What I'm Listening To:
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID)](https://open.spotify.com/user/foywuurvtq0hp0bkh67li5tqo?si=e5db5c46355245d6)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=foywuurvtq0hp0bkh67li5tqo?si=e5db5c46355245d6)]
 
 ---
 
