@@ -32,8 +32,8 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 
 ## 🎀📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetraTovarkova&show_icons=true&theme=radical&count_private=true" width="50%" />
-  <img src="https://streak-stats.demolab.com/?user=PetraTovarkova&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=petra-tovarkova&show_icons=true&theme=radical&count_private=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=petra-tovarkova&theme=radical" width="50%" />
 </p>
 
 ---
