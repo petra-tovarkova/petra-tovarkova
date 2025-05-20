@@ -29,12 +29,13 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 | **SchoolSat Research** | Studying satellite technologies and data processing 
 
 ---
-
+<!--
 ## 🎀📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=petra-tovarkova&show_icons=true&theme=radical&count_private=true" width="50%" />
   <img src="https://streak-stats.demolab.com/?user=petra-tovarkova&theme=radical" width="50%" />
 </p>
+-->
 
 ---
 <!--
@@ -42,6 +43,7 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=foywuurvtq0hp0bkh67li5tqo&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/foywuurvtq0hp0bkh67li5tqo)
 -->
 ---
+
 
 ## 💌 Connect with Me:
 🌎 **LinkedIn:** [Petra Továrková](https://www.linkedin.com/in/petra-tovarkova/)  
