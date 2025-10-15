@@ -16,7 +16,7 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 
 ## 🌟 Technologies & Skills:
 🎨 **Frontend:** HTML, CSS, JavaScript  
-⚙️ **Backend:** Python, Flask  
+⚙️ **Backend:** Python  
 📡 **Space & Research:** Schoolsat, Raspberry Pi
 💻 **Other:** Basic Java, AI, Cybersecurity  
 
