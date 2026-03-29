@@ -1,7 +1,7 @@
 <h1 align="center"> ✨ Hi there, I'm Petra! ✨ </h1>
 
 <p align="center">
-  💡 Student | 🔭 Space Enthusiast | 💻 Aspiring Researcher | 🥋 Karateka
+ Student | Space Enthusiast | Aspiring Researcher | Karateka
 </p>
 
 ---
@@ -55,4 +55,4 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 
 ---
 
-✨ **Thanks for visiting my profile! If you like my projects, feel free to star ⭐ them!** ✨
+✨ **Thanks for visiting my profile! If you like my projects, feel free to star them!** ✨
