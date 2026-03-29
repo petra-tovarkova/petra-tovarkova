@@ -15,18 +15,23 @@ Hello! I'm Petra, a passionate student with a deep love for **science, research,
 ---
 
 ## 🌟 Technologies & Skills:
-🎨 **Frontend:** HTML, CSS, JavaScript  
-⚙️ **Backend:** Python, C 
-📡 **Space & Research:** Schoolsat, Raspberry Pi
-💻 **Other:** Basic Java, AI, Cybersecurity  
+ **Frontend:** HTML, CSS, JavaScript  
+ **Backend:** Python, C
+ **Space & Research:** Schoolsat, Raspberry Pi
+ **Other:** Basic Java, AI, Cybersecurity  
 
 ---
 
 ## 🚀 Projects & Research:
-| 💡 Project | 🌍 Description 
+|   Project  |  Description 
 |------------|--------------|
 | **Astro Pi Hackathon Winner** | Winning team project with **Magion**, analyzing space data on the **ISS** 
 | **SchoolSat Research** | Studying satellite technologies and data processing 
+| **Analogue Astronaut** | Visegrad Space Analogue Challenge
+| **Esa Academy Participant** | Ladybird Guide to Spacecraft Communication course
+
+
+
 
 ---
 <!--
