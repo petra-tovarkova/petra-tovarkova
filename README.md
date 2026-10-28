@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ Hi there, I'm Petra! ✨ </h1>
+<h1 align="center"> ✨ Hi there, I'm Petra! ✨ </h2>
 
 <p align="center">
  Student | Space Enthusiast | Aspiring Researcher | Karateka
@@ -7,7 +7,7 @@
 ---
 
 🙋‍♀️ **About Me**  
-Hello! I'm Petra, a passionate student with a deep love for **science, research, space exploration, IT, and education**. I believe in expanding the boundaries of knowledge and continuously learning new things. 🚀  
+I'm passionate student with a deep love for **science, research, space exploration, IT, and education**. I believe in expanding the boundaries of knowledge and continuously learning new things. 🚀  
 
 💻 I enjoy programming, especially in **C, Python, web development (HTML, CSS, JavaScript), and a bit of Java.**  
 🥋 I'm also a **karate student**, which has taught me **discipline, mental resilience, and focus.**  
