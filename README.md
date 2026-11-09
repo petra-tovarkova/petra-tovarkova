@@ -1,4 +1,4 @@
-# ✦ Hi, I'm Petra Továrková! 🚀
+# ✦ Hi, I'm Petra 
 
 ### Computer Science Student | Space & Engineering Enthusiast
 
