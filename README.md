@@ -11,7 +11,7 @@ Whether it's designing satellite communication subsystems, leading rocket engine
 ## 🛰️ What I Do
 
 - 📡 **YSpace** – System Engineer & Communications at the first Czech student CubeSat mission. 
-- 🚀 **ARC@FIT (Amateur Rocketry Club)** – Founder & Team Lead. Leading a student team in designing, building, and testing model rockets.
+- 🚀 **ARC@FIT (Amateur Rocketry Club)** – Founder & Team Lead of a student team in designing, building, and testing model rockets.
 - ⚡ **Embedded Systems & Software** – Architecting firmware, exploring low-level C programming.
 - ✦ **STEM & Science Popularization** – Inspiring high school and university students to step into space.
 
