@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Space Systems & Embedded Software Engineer
 
-I'm a **Computer Science student at Brno University of Technology (FIT VUT)**, dedicated to bridging the gap between **hardware, low-level software, and space technologies**. 
+I'm a **Computer Science student at Brno University of Technology (FIT VUT)**, dedicated to bridging the gap between **hardware, software, and space technologies**. 
 
 Whether it's designing satellite communication subsystems, leading rocket engineering teams, or mentoring the next generation of STEM enthusiasts, I thrive on turning ambitious ideas into fully functional hardware and code.
 
@@ -10,10 +10,10 @@ Whether it's designing satellite communication subsystems, leading rocket engine
 
 ## 🛰️ What I Do
 
-- 📡 **YSpace** – Systems & Communications Engineer at the first Czech student CubeSat mission. Working on satellite communications architecture, link budgets, and RF subsystem integration.
-- 🚀 **ARC@FIT (Amateur Rocketry Club)** – Founder & Team Lead. Leading a multidisciplinary student team in designing, building, and testing high-power model rockets.
-- ⚡ **Embedded Systems & Software** – Architecting firmware, exploring low-level C programming, and building hardware-software interfaces for space and IoT applications.
-- ✦ **STEM & Science Popularization** – Inspiring high school and university students to step into space engineering through talks, workshops, and open mentoring.
+- 📡 **YSpace** – System Engineer & Communications at the first Czech student CubeSat mission. 
+- 🚀 **ARC@FIT (Amateur Rocketry Club)** – Founder & Team Lead. Leading a multidisciplinary student team in designing, building, and testing model rockets.
+- ⚡ **Embedded Systems & Software** – Architecting firmware, exploring low-level C programming.
+- ✦ **STEM & Science Popularization** – Inspiring high school and university students to step into space.
 
 ---
 
@@ -37,7 +37,7 @@ Whether it's designing satellite communication subsystems, leading rocket engine
 ![JavaScript](https://img.shields.io/badge/JavaScript-17131B?style=for-the-badge&logo=javascript&logoColor=FF4CA5)
 
 **Core Focus Areas**
-> 🛰️ Space Systems Engineering &nbsp;|&nbsp; 📡 Satellite Communications & RF &nbsp;|&nbsp; 🔌 Embedded Firmware & Microcontrollers &nbsp;|&nbsp; 🚀 Rocketry & Avionics
+> 🛰️ System Engineering &nbsp;|&nbsp; 📡 Satellite Communications &nbsp;|&nbsp; 🔌 Embedded Firmware & Microcontrollers &nbsp;|&nbsp; 🚀 Rocketry & Avionics
 
 ---
 
@@ -46,12 +46,11 @@ Whether it's designing satellite communication subsystems, leading rocket engine
 I'm always open to discussing **space technology, internship opportunities, embedded development**, or youth STEM initiatives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-F51B91?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petra-tovarkova/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-17131B?style=for-the-badge&logo=gmail&logoColor=FF4CA5)](mailto:your.email@example.com)
 
 <br>
 
 <div align="center">
 
-✦ **Stay curious. Build boldly. Explore beyond.** 🌌
+✦ **Stay curious. Build boldly. Explore beyond.** ✦
 
 </div>
